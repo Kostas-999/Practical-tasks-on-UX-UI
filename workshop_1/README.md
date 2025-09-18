@@ -9,4 +9,11 @@
 куту вам відкриється можливість відреагувати свій профіль та завантажити
 декстопну версію.
 
+### Як вигляжає веб-версія:
 ![photo_2025-09-18_17-30-02](https://github.com/user-attachments/assets/737c97f5-8b47-4963-9f4a-9844293f1bdd)
+
+### Як виглядає десктопна версія: 
+![photo_2025-09-18_17-34-14](https://github.com/user-attachments/assets/8879184e-4455-43b4-b2b0-18a6c7a2f6c9)
+
+### Зареєстрований акаунт з ім'ям:
+![Profile](https://github.com/user-attachments/assets/cbafc5c2-fa6d-4fe1-a781-6741df9ebea3)
