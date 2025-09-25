@@ -9,28 +9,28 @@ After that, I grouped all the squares, placed them inside a frame for convenienc
 
 1) **Project name and location of figures as layers:**
 
-![Figures as layers](images/Workspace_1.jpg)
+![Figures as layers](Images/Workspace_1.jpg)
 
 <br>
 
 
 2) **Key properties: “appearance” and “layout”:**
 
-![Properties: “appearance” and “layout”](images/Workspace_2.jpg)
+![Properties: “appearance” and “layout”](Images/Workspace_2.jpg)
 
 <br>
 
 
 3) **The main group and elements in this group:**
 
-![Main group](images/Workspace_3.jpg)
+![Main group](Images/Workspace_3.jpg)
 
 <br>
 
 
 4) **Final result:**
 
-![Result](images/Figma%20logo.jpg)
+![Result](Images/Figma%20logo.jpg)
 
 <br>
 
@@ -46,5 +46,6 @@ After that, I grouped all the squares, placed them inside a frame for convenienc
 
 
 ## Conclusions:
+
 
 During my work, I learned how to create and edit basic elements in Figma, apply properties to them (round corners, change colors), group them, and place them in a frame. I also gained practical experience in exporting the finished result in the required format.
