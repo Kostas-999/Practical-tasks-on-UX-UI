@@ -41,7 +41,7 @@ After that, I grouped all the squares, placed them inside a frame for convenienc
 <br>
 
 *And the file itself, which can be downloaded at this link:*
-![Figma file](Figma_file/Practice_UX_UI.fig)
+`/Figma_file/Practice_UX_UI.fig`
 
 
 
@@ -49,3 +49,4 @@ After that, I grouped all the squares, placed them inside a frame for convenienc
 
 
 During my work, I learned how to create and edit basic elements in Figma, apply properties to them (round corners, change colors), group them, and place them in a frame. I also gained practical experience in exporting the finished result in the required format.
+
