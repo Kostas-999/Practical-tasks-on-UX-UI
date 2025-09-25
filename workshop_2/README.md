@@ -29,7 +29,7 @@ After that, I grouped all the squares, placed them inside a frame for convenienc
 
 
 4) **Final result:**
-<img src="Images/Figma%20logo.jpg" alt="Result" width="20%"/>
+<img src="Images/Figma%20logo.jpg" alt="Result" width="25%"/>
 
 
 <br>
@@ -49,6 +49,7 @@ After that, I grouped all the squares, placed them inside a frame for convenienc
 
 
 During my work, I learned how to create and edit basic elements in Figma, apply properties to them (round corners, change colors), group them, and place them in a frame. I also gained practical experience in exporting the finished result in the required format.
+
 
 
 
