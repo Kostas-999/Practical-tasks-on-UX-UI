@@ -15,19 +15,19 @@ After finishing the layout, I grouped the layers for better structure, placed th
 
 ### 1) **Example of reference patterns**
 
-![Example patterns](images/Example%20patterns.png)
+![Example patterns](Images/Example%20patterns.png)
 
 <br>
 
 ### 2) **Working process and composition variants**
 
-![Geometric patterns](images/Geometric%20patterns.jpg)
+![Geometric patterns](Images/Geometric%20patterns.jpg)
 
 <br>
 
 ### 3) **Final geometric pattern**
 
-![Final pattern](images/Geometric%20pattern.jpg)
+![Final pattern](Images/Geometric%20pattern.jpg)
 
 <br>
 
@@ -50,4 +50,5 @@ I learned how to combine basic forms to build a visually consistent and structur
 This work helped reinforce my understanding of **geometric design logic** and the importance of structure in UX/UI visualization.
 
 ---
+
 
