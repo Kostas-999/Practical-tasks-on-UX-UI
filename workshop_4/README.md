@@ -17,27 +17,27 @@ The overall color palette follows a soft green tone for a clean, modern aestheti
 ---
 
 ### 1) **Icons and component setup**
-<p align="center">
+<p align="left">
   <img src="Images/Icons.jpg" width="720" alt="Icons and component setup">
 </p>
 
 ### 2) **UI elements and component blocks**
-<p align="center">
-  <img src="Images/Some%20element%20of%20design.jpg" width="720" alt="UI elements and blocks">
+<p align="left">
+  <img src="Images/Some%20element%20of%20design.jpg" width="320" alt="UI elements and blocks">
 </p>
 
 ### 3) **Mobile app frame**
-<p align="center">
+<p align="left">
   <img src="Images/Mobile%20app.jpg" width="840" alt="Mobile app frame">
 </p>
 
 ### 4) **Final look of the mobile app**
-<p align="center">
+<p align="left">
   <img src="Images/Final%20look.jpg" width="840" alt="Mobile app final view">
 </p>
 
 ### 5) **3D visualization using vector shapes**
-<p align="center">
+<p align="left">
   <img src="Images/Some%20element%20of%20design%20(3D).jpg" width="720" alt="3D vector visualization">
 </p>
 
@@ -58,5 +58,6 @@ The overall color palette follows a soft green tone for a clean, modern aestheti
 During this practical work, I improved my understanding of **frames, groups, and sections** in Figma and how they help maintain structure in design projects.  
 I also practiced building a mobile app layout using reusable **components** and experimented with creating **depth and realism in vector design**.  
 The assignment demonstrated how proper layer organization and component hierarchy contribute to efficient design workflows.
+
 
 
