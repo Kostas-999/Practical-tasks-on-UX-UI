@@ -17,7 +17,7 @@ In the process, I also organized the icons into named layers for better file str
 
 ### 1) **Reference example of icons**
 
-<p align="center">
+<p align="left">
   <img src="Images/Free%20icons%20example.jpg" width="700" alt="Reference free icons example">
 </p>
 
@@ -25,7 +25,7 @@ In the process, I also organized the icons into named layers for better file str
 
 ### 2) **Created icons (border style, 24×24 frames)**
 
-<p align="center">
+<p align="left">
   <img src="Images/Icons.jpg" width="400" alt="Created vector icons in border style">
 </p>
 
@@ -33,14 +33,14 @@ In the process, I also organized the icons into named layers for better file str
 
 ### 3) **Layer structure of icons**
 
-<p align="center">
+<p align="left">
   <img src="Images/Icons%20layers.jpg" width="320" alt="Icon layers structure in Figma">
 </p>
 
 ---
 
 ### *Figma project link:*
-[[https://www.figma.com/design/qd7KvEsja7bPFiItY3cazZ/Practice-UX-UI?node-id=47-2&t=AC5LiO3kpbUyyc98-1]([https://www.figma.com/design/qd7KvEsja7bPFiItY3cazZ/Practice-UX-UI?node-id=47-2&t=AC5LiO3kpbUyyc98-1](https://www.figma.com/design/qd7KvEsja7bPFiItY3cazZ/Practice-UX-UI?node-id=0-1&t=kGTf3erfKpAyZ6lV-1))](https://www.figma.com/design/qd7KvEsja7bPFiItY3cazZ/Practice-UX-UI?node-id=0-1&t=kGTf3erfKpAyZ6lV-1)](https://www.figma.com/design/qd7KvEsja7bPFiItY3cazZ/Practice-UX-UI?node-id=0-1&t=kGTf3erfKpAyZ6lV-1)
+[https://www.figma.com/design/qd7KvEsja7bPFiItY3cazZ/Practice-UX-UI?node-id=0-1&t=kGTf3erfKpAyZ6lV-1](https://www.figma.com/design/qd7KvEsja7bPFiItY3cazZ/Practice-UX-UI?node-id=0-1&t=kGTf3erfKpAyZ6lV-1)
 
 <br>
 
@@ -54,5 +54,4 @@ In the process, I also organized the icons into named layers for better file str
 Through this task, I learned how to create **vector-based icons** using **Bézier curves** and **vector networks** in Figma.  
 Working with the **Pen Tool** helped me better understand the geometry of paths, anchor points, and smooth transitions.  
 Maintaining consistent proportions and alignment within 24×24 frames improved my accuracy in icon design and deepened my understanding of the vector workflow for scalable UI assets.
-
 
