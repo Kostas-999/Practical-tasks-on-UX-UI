@@ -23,7 +23,7 @@ These examples show how Boolean logic can be applied to achieve a cohesive visua
 
 ### 1) **Boolean operations demonstration**
 
-<p align="center">
+<p align="left">
   <img src="Images/Boolean%20groups.jpg" width="760" alt="Boolean operations demonstration in Figma">
 </p>
 
@@ -31,7 +31,7 @@ These examples show how Boolean logic can be applied to achieve a cohesive visua
 
 ### 2) **Two examples created using Boolean groups**
 
-<p align="center">
+<p align="left">
   <img src="Images/Two%20examples%20boolean%20group.jpg" width="800" alt="Examples of icons made with Boolean groups">
 </p>
 
@@ -52,3 +52,4 @@ These examples show how Boolean logic can be applied to achieve a cohesive visua
 This exercise helped me understand how **Boolean groups** can be used to build complex solid shapes from simple primitives.  
 By combining and subtracting elements, I created two distinct icons while maintaining a clean geometric structure.  
 Additionally, the **Flatten** tool proved useful for simplifying multiple layers into a single vector path, streamlining editing and export for UI design.
+
