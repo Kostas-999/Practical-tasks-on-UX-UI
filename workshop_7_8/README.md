@@ -27,16 +27,16 @@ The goal was to reproduce the layout **exactly as provided**, maintaining consis
 
 ### 1) **Typography layout assignment**
 
-<p align="center">
-  <img src="images/Typography%20assignment.jpg" width="820" alt="Typography assignment Figma layout">
+<p align="left">
+  <img src="Images/Typography%20assignment.jpg" width="820" alt="Typography assignment Figma layout">
 </p>
 
 ---
 
 ### 2) **Final task composition**
 
-<p align="center">
-  <img src="images/Task.jpg" width="820" alt="Final task typography composition">
+<p align="left">
+  <img src="Images/Task.jpg" width="820" alt="Final task typography composition">
 </p>
 
 ---
@@ -59,3 +59,4 @@ By practicing in Figma, I reinforced my ability to apply **font combinations, co
 This assignment emphasized that typography is not just about text — it is an essential part of the overall **user experience** and **visual communication**.
 
 ---
+
