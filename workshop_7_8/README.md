@@ -56,7 +56,7 @@ The goal was to reproduce the layout **exactly as provided**, maintaining consis
 These two tasks helped me understand **how typography defines the visual language of interfaces**.  
 I learned how to structure text blocks using proper hierarchy, line height, and kerning to enhance readability.  
 By practicing in Figma, I reinforced my ability to apply **font combinations, contrast, and alignment** principles that ensure clarity and usability in UI design.  
-This assignment emphasized that typography is not just about text — it is an essential part of the overall **user experience** and **visual communication**.
 
 ---
+
 
