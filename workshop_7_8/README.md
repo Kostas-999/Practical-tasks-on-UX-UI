@@ -28,7 +28,7 @@ The goal was to reproduce the layout **exactly as provided**, maintaining consis
 ### 1) **Typography layout assignment**
 
 <p align="center">
-  <img src="Images/Typography%20assignment.jpg" width="820" alt="Typography assignment Figma layout">
+  <img src="images/Typography%20assignment.jpg" width="820" alt="Typography assignment Figma layout">
 </p>
 
 ---
@@ -36,13 +36,13 @@ The goal was to reproduce the layout **exactly as provided**, maintaining consis
 ### 2) **Final task composition**
 
 <p align="center">
-  <img src="Images/Task.jpg" width="820" alt="Final task typography composition">
+  <img src="images/Task.jpg" width="820" alt="Final task typography composition">
 </p>
 
 ---
 
 ### *Figma project link:*
-[https://www.figma.com/design/qd7KvEsja7bPFiItY3cazZ/Practice-UX-UI?node-id=0-1&t=kGTf3erfKpAyZ6lV-1](https://www.figma.com/design/qd7KvEsja7bPFiItY3cazZ/Practice-UX-UI?node-id=0-1&t=kGTf3erfKpAyZ6lV-1)
+[https://www.figma.com/design/qd7KvEsja7bPFiItY3cazZ/Practice-UX-UI?node-id=16-2&t=UWQpvFLMsbApE7Vf-1](https://www.figma.com/design/qd7KvEsja7bPFiItY3cazZ/Practice-UX-UI?node-id=16-2&t=UWQpvFLMsbApE7Vf-1)
 
 <br>
 
