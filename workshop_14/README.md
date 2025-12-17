@@ -154,30 +154,30 @@ Thanks to `srcset`, lightweight photos load on weaker devices, while high-qualit
 ### Photo
 
 #### Original
-![Original Screenshot](./images/Look.jpg)
+![Original Screenshot](./Images/Look.jpg)
 
 #### Optimized (Moz JPEG 50%)
-![Optimized Screenshot](./images/50/Look_MozJPEG_50.jpg)
+![Optimized Screenshot](./Images/50/Look_MozJPEG_50.jpg)
 
 ---
 
 ### Screenshot
 
 #### Original
-![Original Photo](./images/Screenshot.png)
+![Original Photo](./Images/Screenshot.png)
 
 #### Optimized (Moz JPEG 50%)
-![Optimized Photo](./images/50/Screenshot_MozJPEG_50.jpg)
+![Optimized Photo](./Images/50/Screenshot_MozJPEG_50.jpg)
 
 ---
 
 ### Graphics with text
 
 #### Original
-![Original Graphics](./images/Some_Text.png)
+![Original Graphics](./Images/Some_Text.png)
 
 #### Optimized (Moz JPEG 50%)
-![Optimized Graphics](./images/50/Some_Text_MozJPEG_50.jpg)
+![Optimized Graphics](./Images/50/Some_Text_MozJPEG_50.jpg)
 
 
 *Comparison:* <br>
