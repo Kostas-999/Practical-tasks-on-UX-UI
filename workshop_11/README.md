@@ -38,7 +38,7 @@ The work focused on:
 
 **Final View (Clean UI):**
 <p align="left">
-  <img src="./Images/Screen_1_(4_cols).jpg" width="720" alt="Main Screen Final Design">
+  <img src="./Images/Screen_1_(4 cols).jpg" width="720" alt="Main Screen Final Design">
 </p>
 
 ---
