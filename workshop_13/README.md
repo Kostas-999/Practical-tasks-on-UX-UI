@@ -89,7 +89,7 @@ Color harmony is the art of combining colors in a way that is pleasing to the hu
 
 - **Muted Palette:**
   - HEXs: `#C7D2D9`, `#3E4031`, `#BF7E04`, `#A67244`, `#A69D9C`
-  ![Muted](./Images/Muted_palette.jpg.jpg)
+  ![Muted](./Images/Muted_palette.jpg)
 
 **Which palette fits UI better:** Muted
 **Explanation:** The Muted palette is generally more suitable for a user interface background or secondary elements. Its lower saturation reduces eye strain and allows text or call-to-action buttons to stand out more effectively compared to the high-intensity colorful version.
